@@ -13,8 +13,8 @@ function MyApp({ Component, pageProps }: AppProps) {
         <span className='text-sm text-gray-500 sm:text-center dark:text-gray-400'>
           &copy; 2022 YouTube Downloader, 
           <Link href='/'>
-            <a href='https://flowbite.com/' className='hover:underline'>
-            &nbsp;  Yousavie
+            <a className='hover:underline'>
+            &nbsp; Yousavie  &nbsp;
             </a>
           </Link>
           made with ❤ by <a href="https://ifeanyilucky.vercel.app" target="_blank" rel="noreferrer"/>Codack</a> . All Rights Reserved.
