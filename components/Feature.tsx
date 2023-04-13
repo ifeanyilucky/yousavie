@@ -18,25 +18,25 @@ const features: IState["features"] = [
   {
     name: 'Easy To Use',
     description:
-      'All you have to do is copy & paste the URL link of your favorite social video in the above search box. After that, we will do the rest!',
+      'All you have to do is copy & paste the URL link of your favorite social video in the above search box. After that, YouSavie will do the rest!',
     icon: GlobeAltIcon,
   },
   {
     name: 'No App Install Needed',
     description:
-      'No application is needed, and no installing software is required! Just copy the video URL link and paste it to GiveFastLink online downloader.',
+      'No application is needed, and no installing software is required! Just copy the video URL link and paste it to YouSavie online downloader.',
     icon: ScaleIcon,
   },
   {
     name: 'Highest Quality Videos',
     description:
-      'Depending on each video, available qualities may be different, but we guarantee you that the GiveFastLink gives you all qualities From 720p, 1080 Full HD to 4K.',
+      'Depending on each video, available qualities may be different, but we guarantee you that the YouSavie gives you all qualities From 720p, 1080 Full HD to 4K.',
     icon: BoltIcon,
   },
   {
     name: '100% Free',
     description:
-      'The good news is that the GiveFastLink tool is full-free, so you don’t need to have a credit card or make any payment to use downloaders.',
+      'The good news is that the YouSavie tool is full-free, so you don’t need to have a credit card or make any payment to use downloaders.',
     icon: ChatBubbleBottomCenterTextIcon,
   },
 ];
