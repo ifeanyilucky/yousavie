@@ -17,7 +17,7 @@ function MyApp({ Component, pageProps }: AppProps) {
             &nbsp;  Yousavie
             </a>
           </Link>
-          made with ❤ by Codack . All Rights Reserved.
+          made with ❤ by <a href="https://ifeanyilucky.vercel.app" target="_blank" rel="noreferrer"/>Codack</a> . All Rights Reserved.
         </span>
         <ul className='flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0'>
           <li>
